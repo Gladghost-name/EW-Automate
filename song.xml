@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<easyworship version="1.0">
+    <song>
+    <title>Amazing Grace</title>
+    <author>John Newton</author>
+    <copyright>Public Domain</copyright>
+    <ccli>0000000</ccli>
+
+    <verse name="v1">
+        <lines>
+            Amazing grace! How sweet the sound
+            That saved a wretch like me;
+            I once was lost, but now am found;
+            Was blind, but now I see.
+        </lines>
+    </verse>
+
+    <verse name="v2">
+        <lines>
+            ’Twas grace that taught my heart to fear,
+            And grace my fears relieved;
+            How precious did that grace appear
+            The hour I first believed.
+        </lines>
+    </verse>
+
+    <chorus name="c1">
+        <lines>
+            Praise God, Praise God,
+            Praise God, Praise God,
+            Praise God, Praise God,
+            Praise God, Praise God.
+        </lines>
+    </chorus>
+
+    </song>
+</easyworship>
